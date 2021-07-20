@@ -1,0 +1,16 @@
+[
+  {
+    "userId": "USER_001",
+    "firstName": "Adam",
+    "lastName": "Driver",
+    "email": "adam@applova.io",
+    "password": "Test123#"
+  },
+  {
+    "userId": "USER_002",
+    "firstName": "Ryan",
+    "lastName": "Reynolds",
+    "email": "ryan@applova.io",
+    "password": "Ad613$#"
+  }
+]
